@@ -368,7 +368,7 @@ export default function LearnAI() {
                 
                 {chatHistory.length === 0 && (
                   <div className="text-center text-white/60 py-8">
-                    Ask me anything and I'll help you learn! I can explain concepts, provide examples, and answer your questions.
+                    Ask me anything — I’ll explain concepts, give examples, and answer your questions..
                   </div>
                 )}
               </div>
